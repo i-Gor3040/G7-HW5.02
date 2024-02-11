@@ -35,4 +35,8 @@ describe("Domashka 5.02", () => {
       cy.get('[status="primary"]').contains(`${testData.buttonSelector}`).click();
     });
   });
+<<<<<<< HEAD
 });
+=======
+});
+>>>>>>> main
